@@ -47,4 +47,4 @@ var typed = new Typed(".auto-input", {
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
-}) 
+}); 
